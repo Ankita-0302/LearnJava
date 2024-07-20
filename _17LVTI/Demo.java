@@ -9,7 +9,6 @@ import java.util.Arrays;
 public class Alien {
 
 }
-
 public class Demo {
     //var num=10;   ///error  we can not declare var here
     public static void main(String a[])
